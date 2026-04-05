@@ -1,5 +1,5 @@
 /*
-Name: JoshZ
+
 Filename: Defender
 Purpose: Create a game where the defender plane should kill enemies (can be planes, asteroids, other flying objects).
 The defender can move by WASD keys and shoot the missile by pressing the m key.
